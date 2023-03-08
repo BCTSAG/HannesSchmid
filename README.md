@@ -16,7 +16,7 @@ https://hardhat.org/hardhat-runner/docs/getting-started#installation
 
 3. Deploy contracts
 
-     ```npx hardhat run scripts/deploy.ts --NETWORK_TO_USE``` e.g ```npx hardhat run scripts/deploy.ts --polygon_mumbai```
+     ```npx hardhat run scripts/deploy.ts --NETWORK_TO_USE``` e.g ```npx hardhat run scripts/deploy.ts network --polygon_mumbai```
 
     This will deploy all 5 contracts on the network. You should see 5 contract addresses in your console.
 
